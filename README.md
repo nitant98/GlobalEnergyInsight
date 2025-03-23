@@ -1,4 +1,4 @@
-# 🌍 Global Energy Insight Dashboard: Analyzing Energy Trends 
+# Global Energy Insight Dashboard: Analyzing Energy Trends 
 
 This report dives into global energy trends, exploring production, consumption, and trade across the world. With interactive dashboards and insightful visualizations, it addresses key business questions that matter in today's energy landscape.
 
