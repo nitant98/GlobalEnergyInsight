@@ -1,7 +1,6 @@
-# 🌍 Global Energy Trade Analysis — Power BI Report
+# 🌍 Global Energy Insight Dashboard: Analyzing Energy Trends 
 
-Welcome to the **Global Energy Trade Analysis** Power BI project!  
-This report dives deep into global energy trends, exploring production, consumption, and trade across the world. With interactive dashboards and insightful visualizations, it addresses key business questions that matter in today's energy landscape.
+This report dives into global energy trends, exploring production, consumption, and trade across the world. With interactive dashboards and insightful visualizations, it addresses key business questions that matter in today's energy landscape.
 
 ---
 
